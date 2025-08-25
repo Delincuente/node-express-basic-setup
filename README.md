@@ -14,3 +14,18 @@ It serves as the foundation for learning the **MERN stack**.
 - Basic route `/` that returns a response
 - Install and use `nodemon` for auto-restart during development
 - Setup scripting for `start` and `dev` in package.json file
+
+------------------------------------
+
+## 🛠️ Setup Instructions
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Delincuente/node-express-basic-setup.git
+   cd node-express-basic-setup
+3. Install dependencies
+   ```bash
+   npm install
+5. Run the project
+   ```bash
+   npm run dev
